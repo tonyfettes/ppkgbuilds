@@ -1,0 +1,10 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-dev-js
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="JS/TS development tools for Tony Fettes' Arch Linux"
+depends=(
+  'nodejs'
+  'npm'
+)

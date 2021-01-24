@@ -1,0 +1,11 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-dev-latex
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Latex development tools for Tony Fettes' Arch Linux"
+depends=(
+  'texlive-most'
+  'texmacs'
+  'texlab'
+)

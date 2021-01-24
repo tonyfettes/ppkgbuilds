@@ -1,0 +1,13 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-dev
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Development tools for Tony Fettes' Arch Linux"
+depends=(
+  'tonyfettes-dev-latex'
+  'tonyfettes-dev-cpp'
+  'tonyfettes-dev-js'
+  'tonyfettes-dev-python'
+  'tonyfettes-dev-octave'
+)

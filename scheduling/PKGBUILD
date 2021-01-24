@@ -1,0 +1,10 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-scheduling
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Scheduling optimization tools for Tony Fettes' Arch Linux"
+depends=(
+  'ananicy'
+  'irqbalance'
+)

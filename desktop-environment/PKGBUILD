@@ -1,0 +1,30 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-desktop-environment
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Desktop environment for Tony Fettes' Arch Linux"
+depends=(
+  'tonyfettes-window-manager'
+  'tonyfettes-wayland-lib'
+  'tonyfettes-appearance'
+  'tonyfettes-fonts'
+  'xdg-desktop-portal-wlr'
+  'wl-clipboard'
+  'wl-clipboard-x11'
+  'kitty'
+  'alacritty'
+  'waypipe'
+  'mako'
+  'kanshi'
+  'slurp'
+  'grim'
+  'wdisplays'
+  'wf-recorder'
+  'wob'
+  'wofi'
+  'wlogout'
+  'waybar'
+  'ydotool'
+  'gammastep'
+)

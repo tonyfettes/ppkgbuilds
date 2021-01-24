@@ -1,0 +1,17 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-personal
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Personal info management system for Tony Fettes' Arch Linux"
+depends=(
+  'isync'
+  'neomutt'
+  'msmtp'
+  'goimapnotify'
+  'notmuch'
+  'khal'
+  'vdirsyncer'
+  'calcurse'
+  'python-requests-oauthlib'
+)

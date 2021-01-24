@@ -1,0 +1,32 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-cli
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="CLI tools for Tony Fettes' Arch Linux"
+depends=(
+  'tmux'
+  'zsh'
+  'zsh-completions'
+  'powerline'
+  'mosh'
+  'bat'
+  'exa'
+  'fd'
+  'broot'
+  'ripgrep'
+  'plocate'
+  'starship'
+  'powerline-fonts'
+  'man-db'
+  'man-pages'
+  'texinfo'
+  'tonyfettes-neovim'
+  'kakoune'
+  'kak-lsp'
+  'proxychains'
+  'rsync'
+  'libqalculator'
+  'htop'
+  'github-cli'
+)

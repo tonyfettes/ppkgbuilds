@@ -1,0 +1,14 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-dev-octave
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Octave development tools for Tony Fettes' Arch Linux"
+depends=(
+  'octave'
+  'octave-io'
+  'octave-optim'
+  'octave-statistics'
+  'octave-struct'
+  'octave-symbolic'
+)

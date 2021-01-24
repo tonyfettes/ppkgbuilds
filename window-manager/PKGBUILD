@@ -1,0 +1,9 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-window-manager
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Window manager for Tony Fettes' Arch Linux"
+depends=(
+  'sway-services-git'
+)

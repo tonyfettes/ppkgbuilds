@@ -1,0 +1,12 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-wayland-lib
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Library for Wayland for Tony Fettes' Arch Linux"
+depends=(
+  'qt5-wayland'
+  'glfw-wayland'
+  'egl-wayland'
+  'xorg-xwayland'
+)

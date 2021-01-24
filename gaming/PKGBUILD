@@ -1,0 +1,11 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-gaming
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Gaming tools for Tony Fettes' Arch Linux"
+depends=(
+  'steam'
+  'steam-native-runtime'
+  'gamemode'
+)

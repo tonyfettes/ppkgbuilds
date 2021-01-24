@@ -1,0 +1,12 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-input-method
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Input method for Tony Fettes' Arch Linux"
+depends=(
+  'fcitx5-im'
+  'fcitx5-rime'
+  'fcitx5-pinyin-moegirl-rime'
+  'fcitx5-pinyin-zhwiki-rime'
+)

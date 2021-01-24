@@ -1,0 +1,13 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-root
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Tony Fettes' Arch Linux packages"
+arch=('x86_64')
+depends=(
+  'tonyfettes-hardware'
+  'tonyfettes-gui'
+  'tonyfettes-cli'
+  'tonyfettes-dev'
+)

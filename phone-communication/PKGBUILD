@@ -1,0 +1,11 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-phone-communication
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Phone communication tools for Tony Fettes' Arch Linux"
+depends=(
+  'kdeconnect'
+  'scrcpy'
+  'android-udev'
+)

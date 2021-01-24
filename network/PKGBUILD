@@ -1,0 +1,17 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-network
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Network for Tony Fettes' Arch Linux"
+depends=(
+  'iwd'
+  'v2ray'
+  'v2ray-domain-list-community'
+  'v2ray-geoip'
+  'xray'
+  'xray-domain-list-community'
+  'xray-geoip'
+  'privoxy'
+  'proxychains'
+)

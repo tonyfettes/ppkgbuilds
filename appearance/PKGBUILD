@@ -1,0 +1,14 @@
+# Maintainer: Tony Fettes
+
+pkgname=tonyfettes-appearance
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Appearance and theme setting for Tony Fettes' Arch Linux"
+depends=(
+  'qt5ct'
+  'lxappearance'
+  'bibata-cursor-theme'
+  'materia-nord-gtk-theme'
+  'materia-nord-kvantum-theme'
+  'tonyfettes-fonts'
+)

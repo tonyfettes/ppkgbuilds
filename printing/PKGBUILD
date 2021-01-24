@@ -1,0 +1,11 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-printing
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Printing drivers and controllers for Tony Fettes' Arch Linux"
+depends=(
+  'cups'
+  'system-config-printer'
+  'cnijfilter=ip2700series'
+)

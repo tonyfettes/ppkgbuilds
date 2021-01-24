@@ -1,0 +1,13 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-document-processor
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Document viewers and processors for Tony Fettes' Arch Linux"
+depends=(
+  'tonyfettes-neovim'
+  'zathura'
+  'zathura-pdf-mupdf'
+  'libreoffice-fresh'
+  'papirus-libreoffice-theme'
+)

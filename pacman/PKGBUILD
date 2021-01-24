@@ -1,0 +1,17 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-pacman
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Pacman, pacman-contrib, mirrorlist and configuration for Tony Fettes' Arch Linux"
+depends=(
+  'base'
+  'pacman-contrib'
+  'archlinuxcn-keyring'
+  'archlinuxcn-mirrorlist-git'
+  'chaotic-keyring
+  'chaotic-mirrorlist'
+  'reflector'
+  'powerpill'
+  'paru'
+)

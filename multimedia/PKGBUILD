@@ -1,0 +1,14 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-multimedia
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Multimedia support for Tony Fettes' Arch Linux"
+depends=(
+  'pulseaudio'
+  'pulseaudio-bluetooth'
+  'pavucontrol'
+  'imv'
+  'feeluown-full'
+  'mpv'
+)

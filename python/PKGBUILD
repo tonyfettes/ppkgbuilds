@@ -1,0 +1,11 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-dev-python
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Python development tools for Tony Fettes' Arch Linux"
+depends=(
+  'sage'
+  'ipython'
+  'python-uncertainties'
+)

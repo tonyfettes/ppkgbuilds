@@ -1,0 +1,11 @@
+# Maintainer: Tony Fettes <tonyfettes AT tonyfettes DOT com>
+
+pkgname=tonyfettes-web-browser
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="Web browser for Tony Fettes' Arch Linux"
+depends=(
+  'qutebrowser'
+  'python-tlextract'
+  'profile-sync-daemon'
+)
